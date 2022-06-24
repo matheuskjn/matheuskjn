@@ -1,37 +1,34 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuskjn&color=red" alt="Profile views" /> </p>
+# Hi there, I'm Matheus Kjellin 👋 
 
 - 🔥 Multi-Cloud Data Engineer
 
 - 🔭 I’m currently working at [BIX Tecnologia](https://github.com/bixtecnologia)
 
 - 💬 Ask me about **Cloud, Python, SQL, Spark**
+<br><br>
 
-### Connect with me:
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+## Connect with me:
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/matheuskjn#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/matheuskjn#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/matheuskjn#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/matheuskjn#gh-dark-mode-only)
+<br><br>
 
-## 🛠 &nbsp;Tech Stack
+## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=green)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=Databricks&logoColor=red)&nbsp;
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apachespark&logoColor=#E35A16)&nbsp;
+![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Apache%20Airflow&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=yellow)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud&logoColor=#4285F4)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=blue)&nbsp;
+<br><br>
 
-### Certifications:
-[<img align="left" src="https://badges.images.credential.net/1521043927706.png">](https://www.credential.net/aa67508a-87ca-480f-bab2-b9d76c8d5b3c)
+## Certifications:
 
-[<img align="left" src="https://images.credly.com/size/340x340/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png">](https://www.credly.com/badges/e8e7cdd9-2468-4d87-91e3-2675988f951e)
-
-
-
-<br /> <br /> <br /> <br />
+[![website](./img/google_data_engineer.png)](https://www.credential.net/aa67508a-87ca-480f-bab2-b9d76c8d5b3c)
+[![website](./img/azure_data_engineer2.png)](https://www.credly.com/badges/e8e7cdd9-2468-4d87-91e3-2675988f951e)
+<br><br>
