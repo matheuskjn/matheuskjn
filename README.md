@@ -7,7 +7,8 @@
 - 💬 Ask me about **Cloud, Python, SQL, Spark**
 <br><br>
 
-## Connect with me:
+## Connect with me
+
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/matheuskjn#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/matheuskjn#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -27,7 +28,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=blue)&nbsp;
 <br><br>
 
-## Certifications:
+## Certifications
 
 [![website](./img/google_data_engineer.png)](https://www.credential.net/aa67508a-87ca-480f-bab2-b9d76c8d5b3c)
 [![website](./img/azure_data_engineer2.png)](https://www.credly.com/badges/e8e7cdd9-2468-4d87-91e3-2675988f951e)
