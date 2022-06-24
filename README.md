@@ -26,3 +26,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+### Certifications:
+[<img align="left" src="https://badges.images.credential.net/1521043927706.png">](https://www.credential.net/aa67508a-87ca-480f-bab2-b9d76c8d5b3c)
+
+[<img align="left" src="https://images.credly.com/size/340x340/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png">](https://www.credly.com/badges/e8e7cdd9-2468-4d87-91e3-2675988f951e)
+
+
+
+<br /> <br /> <br /> <br />
