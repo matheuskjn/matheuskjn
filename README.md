@@ -1,13 +1,13 @@
 # Hi there, I'm Matheus Kjellin 👋 
 
-- 🔥 Multi-Cloud Data Engineer
+- Multi-Cloud Data Engineer
 
-- 🔭 I’m currently working at [BIX Tecnologia](https://github.com/bixtecnologia)
+- I’m currently working at [BIX Tecnologia](https://github.com/bixtecnologia)
 
-- 💬 Ask me about **Cloud, Python, SQL, Spark**
+- Ask me about **Cloud, Python, SQL, Spark**
 <br><br>
 
-## Connect with me
+## Social Links
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/matheuskjn#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/matheuskjn#gh-dark-mode-only)
